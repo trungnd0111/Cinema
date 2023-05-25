@@ -1,0 +1,11 @@
+{
+    "hello":"Hello! Welcome",
+    "signin":"SIGN IN",
+    "signup":"SIGN UP",
+    "logout": "LOG OUT",
+    "homepage":"HOME",
+    "showtimes": "SHOWTIMES",
+    "theater": "THEATER",
+    "news": "NEWS",
+    "app": "APPLICATION"
+}
